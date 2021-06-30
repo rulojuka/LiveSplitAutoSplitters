@@ -33,6 +33,7 @@ init // Runs when the emulator process is found
         { 131543040, 0xA9BD5C },    // bsnes v110
         { 51924992, 0xA9DD5C },     // bsnes v111
         { 52056064, 0xAAED7C },     // bsnes v112
+        { 52477952, 0xB16D7C },     // bsnes v115
         { 7061504, 0x36F11500240 }, // BizHawk 2.3
         { 7249920, 0x36F11500240 }, // BizHawk 2.3.1
         { 6938624, 0x36F11500240 }, // BizHawk 2.3.2
