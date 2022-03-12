@@ -37,6 +37,8 @@ init // Runs when the emulator process is found
         { 7061504, 0x36F11500240 }, // BizHawk 2.3
         { 7249920, 0x36F11500240 }, // BizHawk 2.3.1
         { 6938624, 0x36F11500240 }, // BizHawk 2.3.2
+        { 4538368, 0x36F05F94040 }, // BizHawk 2.6.0
+		{ 4546560, 0x36F05F94040 }, // BizHawk 2.6.1
     };
 
     long memoryOffset;
